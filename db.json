@@ -1,22 +1,54 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "author": "typicode"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
+    "Natan": {
+        "id": 1,
+        "nomeCompleto": "Natan Spricigo",
+        "imagem": "https://d3g919u5f14ld1.cloudfront.net/assets/images/users/default-avatar.svg",
+        "faculdade": "Celer",
+        "sexo": "M"
+    },
+    "Joao": {
+        "id": 2,
+        "nomeCompleto": "João",
+        "imagem": "https://d3g919u5f14ld1.cloudfront.net/assets/images/users/default-avatar.svg",
+        "faculdade": "Celer",
+        "sexo": "M"
+    },
+    "Emanuel": {
+        "id": 3,
+        "nomeCompleto": "Natan Spricigo",
+        "imagem": "https://d3g919u5f14ld1.cloudfront.net/assets/images/users/default-avatar.svg",
+        "faculdade": "Celer",
+        "sexo": "M"
+    },
+    "Rejiane": {
+        "id": 4,
+        "nomeCompleto": "Natan Spricigo",
+        "imagem": "https://d3g919u5f14ld1.cloudfront.net/assets/images/users/default-avatar.svg",
+        "faculdade": "Celer",
+        "sexo": "F"
+    },
+    "Adilson": {
+        "id": 5,
+        "nomeCompleto": "Natan Spricigo",
+        "imagem": "https://d3g919u5f14ld1.cloudfront.net/assets/images/users/default-avatar.svg",
+        "faculdade": "Celer ",
+"sexo": "M"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "Teste": {
-    "umTeste": "Natan"
-  }
 }
