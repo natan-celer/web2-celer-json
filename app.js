@@ -5,4 +5,4 @@ var server = http.createServer(function (req, res) {
     });
     res.end('Hello world!');
 });
-server.listen(process.env.PORT);
+server.listen(process.env.PORT || 5000);
