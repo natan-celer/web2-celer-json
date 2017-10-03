@@ -25,30 +25,30 @@
     },
     "Joao": {
         "id": 2,
-        "nomeCompleto": "João",
-        "imagem": "https://d3g919u5f14ld1.cloudfront.net/assets/images/users/default-avatar.svg",
+        "nomeCompleto": "João F.",
+        "imagem": "http://www.ccusersforum.org/images/user.png",
         "faculdade": "Celer",
         "sexo": "M"
     },
     "Emanuel": {
         "id": 3,
-        "nomeCompleto": "Natan Spricigo",
-        "imagem": "https://d3g919u5f14ld1.cloudfront.net/assets/images/users/default-avatar.svg",
-        "faculdade": "Celer",
+        "nomeCompleto": "Emanuel L.",
+        "imagem": "http://pngimages.net/sites/default/files/male-user-png-image-20772.png",
+        "faculdade": "Celer Faculdades",
         "sexo": "M"
     },
-    "Rejiane": {
+    "Regiane": {
         "id": 4,
-        "nomeCompleto": "Natan Spricigo",
-        "imagem": "https://d3g919u5f14ld1.cloudfront.net/assets/images/users/default-avatar.svg",
+        "nomeCompleto": "Regiane B.",
+        "imagem": "https://maxcdn.icons8.com/Share/icon/Users//circled_user_female1600.png",
         "faculdade": "Celer",
         "sexo": "F"
     },
     "Adilson": {
         "id": 5,
-        "nomeCompleto": "Natan Spricigo",
-        "imagem": "https://d3g919u5f14ld1.cloudfront.net/assets/images/users/default-avatar.svg",
+        "nomeCompleto": "Adilson ",
+        "imagem": "http://downloadicons.net/sites/default/files/business-user-icon-44613.png",
         "faculdade": "Celer ",
-"sexo": "M"
+        "sexo": "M"
     }
 }
