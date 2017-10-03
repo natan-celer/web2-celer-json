@@ -1,2 +1,2 @@
 worker: node app.js -p $PORT
-web: json-server db.json
+web: json-server db.json -p 3000
