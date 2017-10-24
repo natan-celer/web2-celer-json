@@ -1,9 +1,10 @@
 {
     "posts": [
-        {
+         {
             "id": 1,
             "title": "json-server",
-            "author": "typicode"
+            "author": "Natan",
+            "conteudo": ""
         }
     ],
     "comments": [
