@@ -1,55 +1,38 @@
 {
-    "posts": [
+    "agendas": [
         {
             "id": 1,
-            "title": "json-server",
-            "author": "typicode",
-            consteudo: "Teste"
-        }
-    ],
-    "comments": [
+            "dataHora": "19/12/2018 10:30",
+            "paciente": {
+                "nome": "Fulano de tal",
+                "sexo": "M",
+                "nascimento": "17/06/1995",
+            },
+            "procedimentos": [
+                {
+                    "codigo": 1,
+                    "nome": "Retirada de rins"
+                },
+                {
+                    "codigo": 20,
+                    "nome": "Aplicação de sonda"
+                }
+            ]
+        },
         {
-            "id": 1,
-            "body": "some comment",
-            "postId": 1
+            "id": 2,
+            "dataHora": "19/12/2018 11:30",
+            "paciente": {
+                "nome": "Maria do céu",
+                "sexo": "F",
+                "nascimento": "27/09/1995",
+            },
+            "procedimentos": [
+                {
+                    "codigo": 20,
+                    "nome": "Aplicação de sonda"
+                }
+            ]
         }
-    ],
-    "profile": {
-        "name": "typicode"
-    },
-    "Natan": {
-        "id": 1,
-        "nomeCompleto": "Natan Spricigo",
-        "imagem": "https://d3g919u5f14ld1.cloudfront.net/assets/images/users/default-avatar.svg",
-        "faculdade": "Celer",
-        "sexo": "M"
-    },
-    "Joao": {
-        "id": 2,
-        "nomeCompleto": "João F.",
-        "imagem": "http://www.ccusersforum.org/images/user.png",
-        "faculdade": "Celer",
-        "sexo": "M"
-    },
-    "Emanuel": {
-        "id": 3,
-        "nomeCompleto": "Emanuel L.",
-        "imagem": "http://pngimages.net/sites/default/files/male-user-png-image-20772.png",
-        "faculdade": "Celer Faculdades",
-        "sexo": "M"
-    },
-    "Regiane": {
-        "id": 4,
-        "nomeCompleto": "Regiane B.",
-        "imagem": "https://maxcdn.icons8.com/Share/icon/Users//circled_user_female1600.png",
-        "faculdade": "Celer",
-        "sexo": "F"
-    },
-    "Adilson": {
-        "id": 5,
-        "nomeCompleto": "Adilson ",
-        "imagem": "http://downloadicons.net/sites/default/files/business-user-icon-44613.png",
-        "faculdade": "Celer ",
-        "sexo": "M"
-    }
+    ]
 }
