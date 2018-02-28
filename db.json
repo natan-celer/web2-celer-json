@@ -6,7 +6,7 @@
             "paciente": {
                 "nome": "Fulano de tal",
                 "sexo": "M",
-                "nascimento": "17/06/1995",
+                "nascimento": "17/06/1995"
             },
             "procedimentos": [
                 {
@@ -20,12 +20,12 @@
             ]
         },
         {
-            "id": 2,
+            "id": 1,
             "dataHora": "19/12/2018 11:30",
             "paciente": {
                 "nome": "Maria do céu",
                 "sexo": "F",
-                "nascimento": "27/09/1995",
+                "nascimento": "12/09/1995"
             },
             "procedimentos": [
                 {
